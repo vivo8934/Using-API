@@ -1,0 +1,12 @@
+.all{
+    background-color: lightgrey;
+    border: 25px solid #6e8ec1;
+    width: 450px;
+    padding: 25px;
+    margin: auto;
+}
+.output{
+  background-color: white;
+  width: 75%;
+  height: 40px;
+}
